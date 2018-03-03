@@ -1,6 +1,6 @@
 当不知道学什么的时候就去学英语
 
-  - [算法](#algorithm)
+  - [算法](##algorithm)
   - [Git](#git_blog)
   - [文档](#文档)
   - [front-end](#前端)
@@ -11,7 +11,7 @@
   - [待分类](#TODO)
 
 
-# algorithm
+## algorithm
   - [javascript算法实现1](https://github.com/mgechev/javascript-algorithms)
   - [javascript算法实现2](https://github.com/duereg/js-algorithms)
   - [java算法实现1](https://github.com/TheAlgorithms/Java)
