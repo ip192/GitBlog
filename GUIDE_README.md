@@ -38,6 +38,7 @@
     还加入了面试手册帮助开发者准备亚马逊、Facebook、Google等企业的面试，
     这里面包含了从Web开发人员到大公司的软件工程师的多月学习计划。
     ```
+  - [后端面试范围简介](https://github.com/CyC2018/Interview-Notebook)
 # 可能会用到的工具和框架
   - [经典工具框架lodash](https://github.com/lodash/lodash)
   - [bitcoin](https://github.com/bitcoin/bitcoin)

@@ -7,5 +7,13 @@
   - [log4js](https://github.com/log4js-node/log4js-node)
   - [pino](https://github.com/pinojs/pino)
 
-todo[awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-    [awesome-node](https://github.com/sindresorhus/awesome-nodejs)
+3.HTTP框架
+  - [request](https://github.com/request/request)
+  - [axios](https://github.com/axios/axios)
+  - [fetch](https://github.com/github/fetch)
+  - [superagent](https://github.com/visionmedia/superagent)
+
+
+
+blog
+  - [node design pattern](https://github.com/xingbofeng/Node.js-Design-Patterns-Second-Edition)
