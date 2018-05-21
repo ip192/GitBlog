@@ -59,6 +59,7 @@
   - [eleme前端面试](https://github.com/ElemeFE/node-interview)
   - [css](https://github.com/necolas/normalize.css)
   - [css icon](https://github.com/wentin/cssicon)
+  - [react-redux](https://github.com/mocheng/react-and-redux)
 # 博客，文章
   - [掘金翻译](https://github.com/xitu/gold-miner)
   - [前端博客1](https://github.com/camsong/blog)
